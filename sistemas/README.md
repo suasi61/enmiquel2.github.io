@@ -1,12 +1,1 @@
-
-
-
-
-
-[introduccio](Processos/01_introduccio.md)
-
-[Readme original](../README.md)
-
-[sistemas operativos](../sistemas)
-
-[apuntes](apuntes.md)
+# Modulos de sistemas operativos
