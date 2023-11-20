@@ -1,3 +1,3 @@
 # Modulos de sistemas operativos
 
-[Apuntes de processos](processos/01_introduccio.md)
+[Apuntes de processos](Processos/01_introduccio.md)
